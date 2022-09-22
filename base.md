@@ -1,0 +1,10 @@
+- Fake REST API
+- API server (fake) / Mock API
+- 4 hành động thao tác với dữ liệu: CRUD
+    - Create: Tạo mới dữ liệu -> POST
+    - Read: Lấy dữ liệu -> GET
+    - Update: Chỉnh sửa -> PUT / PATCH
+    - Delete: Xóa -> DELETE
+- Việc thêm sửa xóa đều gửi đi API qua network
+- Postman
+- REST API: Định nghĩa rõ ràng các hàng động dựa trên các phương thức của giao thức http
