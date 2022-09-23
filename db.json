@@ -6,7 +6,7 @@
       "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
       "brand": "The weekend",
       "price": 9.01,
-      "category": "Albums"
+      "category": "Clothing"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
       "brand": "The weekend",
       "price": 18.01,
-      "category": "T-shirts"
+      "category": "Clothing"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "description": "hihiPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
       "brand": "The weekend",
       "price": 20.01,
-      "category": "T-shirts"
+      "category": "Clothing"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
       "brand": "hihi",
       "price": 35.01,
-      "category": "Hoodies"
+      "category": "Clothing"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
       "brand": "hihi",
       "price": 35.01,
-      "category": "Hoodies"
+      "category": "Kitchen"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
       "brand": "hihi",
       "price": 35.01,
-      "category": "Hoodies"
+      "category": "Kitchen"
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
       "brand": "hihi",
       "price": 35.01,
-      "category": "Hoodies"
+      "category": "Kitchen"
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
       "brand": "hihi",
       "price": 35.01,
-      "category": "Hoodies"
+      "category": "Kitchen"
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
       "brand": "hihi",
       "price": 35.01,
-      "category": "Hoodies"
+      "category": "Electronics"
     },
     {
       "id": 10,
@@ -78,7 +78,7 @@
       "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
       "brand": "hihi",
       "price": 35.01,
-      "category": "Hoodies"
+      "category": "Electronics"
     },
     {
       "id": 11,
@@ -86,7 +86,7 @@
       "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
       "brand": "hihi",
       "price": 35.01,
-      "category": "Hoodies"
+      "category": "Electronics"
     },
     {
       "id": 12,
@@ -94,7 +94,7 @@
       "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
       "brand": "hihi",
       "price": 35.01,
-      "category": "Hoodies"
+      "category": "Electronics"
     },
     {
       "id": 13,
@@ -110,7 +110,7 @@
       "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
       "brand": "hihi",
       "price": 35.01,
-      "category": "Hoodies"
+      "category": "Music"
     },
     {
       "id": 15,
@@ -118,7 +118,7 @@
       "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
       "brand": "hihi",
       "price": 35.01,
-      "category": "Hoodies"
+      "category": "Music"
     },
     {
       "id": 16,
@@ -126,7 +126,7 @@
       "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
       "brand": "hihi",
       "price": 35.01,
-      "category": "Hoodies"
+      "category": "Music"
     },
     {
       "id": 17,
@@ -134,7 +134,7 @@
       "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
       "brand": "hihi",
       "price": 35.01,
-      "category": "Hoodies"
+      "category": "Music"
     },
     {
       "id": 18,
@@ -142,7 +142,7 @@
       "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
       "brand": "hihi",
       "price": 35.01,
-      "category": "Hoodies"
+      "category": "Scuba Gear"
     },
     {
       "id": 19,
@@ -150,7 +150,7 @@
       "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
       "brand": "hihi",
       "price": 35.01,
-      "category": "Hoodies"
+      "category": "Scuba Gear"
     },
     {
       "id": 20,
@@ -158,7 +158,7 @@
       "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
       "brand": "hihi",
       "price": 35.01,
-      "category": "Hoodies"
+      "category": "Scuba Gear"
     },
     {
       "id": 21,
@@ -166,7 +166,7 @@
       "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
       "brand": "hihi",
       "price": 35.01,
-      "category": "Hoodies"
+      "category": "Scuba Gear"
     },
     {
       "id": 22,
@@ -211,31 +211,31 @@
   ],
   "cart": [
     {
-      "id": 14,
-      "names": "Patient Ninja",
-      "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
-      "brand": "hihi",
-      "price": 35.01,
-      "category": "Hoodies",
-      "quantity": 15
-    },
-    {
       "id": 1,
       "names": "Woo Album #4",
       "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
       "brand": "The weekend",
       "price": 9.01,
       "category": "Albums",
-      "quantity": 1
+      "quantity": 21
     },
     {
-      "id": 6,
+      "id": 10,
       "names": "Patient Ninja",
       "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
       "brand": "hihi",
       "price": 35.01,
-      "category": "Hoodies",
-      "quantity": 1
+      "category": "Electronics",
+      "quantity": 9
+    },
+    {
+      "id": 14,
+      "names": "Patient Ninja",
+      "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+      "brand": "hihi",
+      "price": 35.01,
+      "category": "Music",
+      "quantity": 4
     }
   ]
 }
